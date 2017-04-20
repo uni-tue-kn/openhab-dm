@@ -1,0 +1,9 @@
+[submodule "openhab-core"]
+	path = openhab-core
+	url = https://github.com/neverend92/openhab-core
+[submodule "openhab-distro"]
+	path = openhab-distro
+	url = https://github.com/neverend92/openhab-distro
+[submodule "smarthome"]
+	path = smarthome
+	url = https://github.com/neverend92/smarthome
